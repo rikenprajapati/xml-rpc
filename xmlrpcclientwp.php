@@ -95,13 +95,13 @@ echo '<td>metaWeblog.newPost</td>';
 echo '<td>'.$objXMLRPClientWordPress->create_post('Hello WordPress XML-RPC', 'This is the content of post done via XML-RPC','').'</td>';
 echo '</tr>';
 
-/*echo '<tr>';
+echo '<tr>';
 echo '<td>wp.newPage</td>';
 echo '<td>'.$objXMLRPClientWordPress->create_page('WordPress XML-RPC page', 'This is the content of First Page done via XML-RPC').'</td>';
 echo '</tr>';
 
 
-echo '<tr>';
+/*echo '<tr>';
 echo '<td>wp.getAuthors</td>';
 echo '<td>'. $objXMLRPClientWordPress->display_authors().'</td>';
 echo '</tr>';
