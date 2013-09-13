@@ -1,11 +1,10 @@
 <?php
 harpreet changed this
-df dsfd
-sf
-d f
-dsfsd
+
+harpreet 3rd changes..took all text away...
 
 harpreet did second change
+
 
 class XMLRPClientWordPress
 {
